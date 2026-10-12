@@ -1,0 +1,11 @@
+Student,Age,Study_Hours,Attendance,Math,Science,English,Projects,Final_Score,Gender,Department
+A,18,2,65,55,60,70,1,62,M,IT
+B,19,5,85,78,82,75,3,80,F,CS
+C,18,3,72,62,68,72,2,67,M,IT
+D,20,7,95,91,94,88,5,91,F,AI
+E,19,6,88,85,80,91,4,85,M,CS
+F,18,4,78,70,75,80,2,75,F,IT
+G,21,8,92,95,97,85,6,94,M,AI
+H,20,5,81,76,79,77,3,78,F,CS
+I,19,3,70,60,65,68,1,64,M,IT
+J,18,6,90,88,90,93,5,90,F,AI
